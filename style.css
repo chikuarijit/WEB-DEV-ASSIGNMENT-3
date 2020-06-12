@@ -1,0 +1,25 @@
+body{
+    background-image: url("images/shallow-focus-photography-of-brown-tree-trunk-1250260.jpg");
+    background-size: 100%;   
+}
+h1{
+    margin-top: 3%;
+    margin-left: 3%;
+    font-size: 350%;
+    background-color: none; 
+}
+img{
+
+    width: 341px;
+    height: 192px;
+    transition: all 1s;
+    box-shadow: 4px 4px 4px 4px black;
+    padding: 12px 12px 12px 12px;
+    border: 2px black solid;
+} 
+img:hover{
+    transform: scale(1.5);
+}
+div{
+    margin-top: 20px; 
+}
